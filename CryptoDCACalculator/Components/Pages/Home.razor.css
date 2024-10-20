@@ -1,0 +1,7 @@
+﻿.container {
+    display: flex !important;
+    width: 80vw !important;
+    margin: auto !important;
+    margin-top: 200px !important;
+    background-color: red !important;
+}
